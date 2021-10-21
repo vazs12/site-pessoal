@@ -1,0 +1,83 @@
+body{
+    background-color: black ; 
+    
+    
+}
+#topo{
+    background-color: rgb(184, 0, 190);  
+    border: 5px solid black ;                     
+    margin-right: 0px;
+    color: black;
+}
+h1{ 
+    font-family: agency FB;
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(184, 0, 190);
+    
+}
+p{
+    font-family: arial;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-size: 17px;
+}
+#bio{
+    background-color: black ;
+    text-align: center;
+	border: 1px solid black;
+	width: 978px;
+    padding: 0px 166px;
+}
+
+
+}
+#menu{
+    background-color: black ;  
+    text-align: center;
+    }
+li{
+    float: left;
+    margin-right: 78px;
+  }
+a{ 
+    color: white;
+    margin-right: 166px;
+    background-color: rgb(184, 0, 190));
+    font-family: agency fb;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+a:hover {
+        color: rgb(184, 0, 190) ;
+        
+}
+a:active {
+    color: rgb(184, 0, 190);
+    
+}
+  #destaques{
+    background-color: black ;
+    text-align: center;
+ }
+  h3{
+      font-family: agency fb;
+      text-align: center;
+      background-color: rgb(184, 0, 190);
+  }
+#rodape{
+    text-align:center;
+    font-family: agency fb;
+    font-size: 13px;
+    background-color: black;  
+    color: white;
+    border: 5px solid black ;
+   }
+#redes{
+    text-align: center;
+
+}
+
+
+
